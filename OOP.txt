@@ -1,0 +1,20 @@
+Object Oriented Programming
+
+There are 4 principles of OOP:-
+
+- Encapsulation - isolation like COVID-19 situation (v2.js fulfills encapsulation!)
+
+- Inheritance - be smart, dont write repeated codes for parent & child (v2.js does not fufill inheritance)
+
+  - inheritance also helps removing duplicate codes (this is proved!)
+  - remove duplicates from class properties
+  - remove duplicates from class methods!!!!!
+
+
+- Polymorphism - one method or thing to have multiple purpose
+ 
+  - compile-time or static Polymorphism (this doesn't occur in js)
+  - run-time or dynamic Polymorphism
+
+
+- Abstraction - hide implementation details (v4.js has abstraction!!!)
